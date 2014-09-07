@@ -2,8 +2,7 @@
 view: none
 ---
 
-Wintersmith is made by [Johan Nordberg][1] and licensed under the [MIT-license][2].
+Contact me at [LinkedIn][1]
 
 
-[1]: http://johan-nordberg.com
-[2]: http://opensource.org/licenses/MIT
+[1]: https://www.linkedin.com/profile/view?id=71265165

@@ -1,12 +1,11 @@
 {
   "locals": {
     "url": "http://localhost:8080",
-    "name": "Dongsheng's Profile and Blog",
-    "owner": "Dongsheng",
-    "description": ""
+    "name": "Dongsheng Mu",
+    "owner": "Dongsheng Mu",
+    "description": "A system software developer in Silicon Valley, passionate about cloud security, data analysis, and automation."
   },
   "plugins": [
-    "wintersmith-nunjucks",
     "./plugins/paginator.coffee"
   ],
   "require": {
