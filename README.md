@@ -1,4 +1,4 @@
 
-# Dongsheng's blog, powered by wintersmith
+# Dongsheng's blog
 
-The default [wintersmith](https://github.com/jnordberg/wintersmith) template
+Powered by wintersmith, with the default [wintersmith](https://github.com/jnordberg/wintersmith) template

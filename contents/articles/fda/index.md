@@ -5,7 +5,7 @@ date: 2014-08-01
 template: article.jade
 ---
 
-Field Data Analyzer is expert system framework designed for troubleshooting, which analyses vast amount of field escalation data with a set of analytical engines, based on an extensible knowledge base.
+Field Data Analyzer is an expert system framework designed for troubleshooting, which analyses vast amount of field escalation data with a set of analytical engines, based on an extensible knowledge base.
 
 * * *
 
